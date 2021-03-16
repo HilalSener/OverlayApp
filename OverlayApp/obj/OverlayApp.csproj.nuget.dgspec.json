@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/hilal.sener/RiderProjects/OverlayApp/OverlayApp/OverlayApp.csproj": {}
+  },
+  "projects": {
+    "/Users/hilal.sener/RiderProjects/OverlayApp/OverlayApp/OverlayApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hilal.sener/RiderProjects/OverlayApp/OverlayApp/OverlayApp.csproj",
+        "projectName": "OverlayApp",
+        "projectPath": "/Users/hilal.sener/RiderProjects/OverlayApp/OverlayApp/OverlayApp.csproj",
+        "packagesPath": "/Users/hilal.sener/.nuget/packages/",
+        "outputPath": "/Users/hilal.sener/RiderProjects/OverlayApp/OverlayApp/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/hilal.sener/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid10.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://coolblue.myget.org/F/coolblue/auth/8871bb0a-2fda-4925-b1a7-0f22ad07d1ed/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid10.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid10.0": {
+          "dependencies": {
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
