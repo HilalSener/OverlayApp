@@ -57,6 +57,7 @@
     <ItemGroup>
         <Compile Include="FloatingService.cs" />
         <Compile Include="MainActivity.cs" />
+        <Compile Include="PackageActivity.cs" />
         <Compile Include="Resources\Resource.Designer.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
@@ -73,6 +74,7 @@
           <SubType>Designer</SubType>
           <Generator>MSBuild:UpdateGeneratedFiles</Generator>
         </AndroidResource>
+        <AndroidResource Include="Resources\layout\package_view.xml" />
         <AndroidResource Include="Resources\values\colors.xml" />
         <AndroidResource Include="Resources\values\ic_launcher_background.xml" />
         <AndroidResource Include="Resources\values\strings.xml" />

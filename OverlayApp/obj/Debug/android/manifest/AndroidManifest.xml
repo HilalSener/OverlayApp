@@ -8,15 +8,18 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="OverlayApp.OverlayApp">
   <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="29" />
   <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+  <uses-permission android:name="android.permission.CALL_PHONE" />
+  <uses-feature android:name="android.hardware.sensor.compass" android:required="true" />
   <uses-permission android:name="android.permission.INTERNET" />
   <application android:allowBackup="true" android:label="@string/app_name" android:supportsRtl="true" android:theme="@style/AppTheme" android:name="android.app.Application" android:debuggable="true" android:extractNativeLibs="true">
-    <service android:name="crc64d4fc05fa81564e75.FloatingService" />
-    <activity android:label="@string/app_name" android:theme="@style/AppTheme" android:name="crc64d4fc05fa81564e75.MainActivity">
+    <activity android:name="overlay_app.main_activity" android:screenOrientation="portrait" android:label="@string/app_name">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
+    <activity android:name="overlay_app.package_activity" android:screenOrientation="portrait" android:parentActivityName=".MainActivity" />
+    <service android:name="crc64d4fc05fa81564e75.FloatingService" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="1999999999" android:authorities="OverlayApp.OverlayApp.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">

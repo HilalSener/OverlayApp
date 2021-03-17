@@ -5,9 +5,12 @@ ImageView;obj/Debug/res/layout/float_view.xml
 item;obj/Debug/res/values/styles.xml
 LinearLayout;obj/Debug/res/layout/activity_main.xml
 LinearLayout;obj/Debug/res/layout/float_view.xml
+LinearLayout;obj/Debug/res/layout/package_view.xml
 resources;obj/Debug/res/values/colors.xml
 resources;obj/Debug/res/values/ic_launcher_background.xml
 resources;obj/Debug/res/values/strings.xml
 resources;obj/Debug/res/values/styles.xml
 string;obj/Debug/res/values/strings.xml
 style;obj/Debug/res/values/styles.xml
+TextView;obj/Debug/res/layout/float_view.xml
+TextView;obj/Debug/res/layout/package_view.xml

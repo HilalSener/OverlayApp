@@ -30,6 +30,7 @@
 /Users/hilal.sener/RiderProjects/OverlayApp/OverlayApp/obj/Debug/android/bin/OverlayApp.OverlayApp.apks
 /Users/hilal.sener/RiderProjects/OverlayApp/OverlayApp/obj/Debug/res/layout/activity_main.xml
 /Users/hilal.sener/RiderProjects/OverlayApp/OverlayApp/obj/Debug/res/layout/float_view.xml
+/Users/hilal.sener/RiderProjects/OverlayApp/OverlayApp/obj/Debug/res/layout/package_view.xml
 /Users/hilal.sener/RiderProjects/OverlayApp/OverlayApp/obj/Debug/res/values/colors.xml
 /Users/hilal.sener/RiderProjects/OverlayApp/OverlayApp/obj/Debug/res/values/ic_launcher_background.xml
 /Users/hilal.sener/RiderProjects/OverlayApp/OverlayApp/obj/Debug/res/values/strings.xml
@@ -128,7 +129,6 @@
 /Users/hilal.sener/RiderProjects/OverlayApp/OverlayApp/obj/Debug/android/src/android/support/v7/recyclerview/R.java
 /Users/hilal.sener/RiderProjects/OverlayApp/OverlayApp/obj/Debug/android/src/android/support/v7/widget/Toolbar_NavigationOnClickEventDispatcher.java
 /Users/hilal.sener/RiderProjects/OverlayApp/OverlayApp/obj/Debug/android/src/crc64d4fc05fa81564e75/FloatingService.java
-/Users/hilal.sener/RiderProjects/OverlayApp/OverlayApp/obj/Debug/android/src/crc64d4fc05fa81564e75/MainActivity.java
 /Users/hilal.sener/RiderProjects/OverlayApp/OverlayApp/obj/Debug/android/src/mono/android/app/ApplicationRegistration.java
 /Users/hilal.sener/RiderProjects/OverlayApp/OverlayApp/obj/Debug/android/src/mono/android/support/design/chip/ChipGroup_OnCheckedChangeListenerImplementor.java
 /Users/hilal.sener/RiderProjects/OverlayApp/OverlayApp/obj/Debug/android/src/mono/android/support/design/widget/AppBarLayout_OnOffsetChangedListenerImplementor.java
@@ -180,6 +180,8 @@
 /Users/hilal.sener/RiderProjects/OverlayApp/OverlayApp/obj/Debug/android/src/mono/android/support/v7/widget/Toolbar_OnMenuItemClickListenerImplementor.java
 /Users/hilal.sener/RiderProjects/OverlayApp/OverlayApp/obj/Debug/android/src/mono/android/support/v7/widget/ViewStubCompat_OnInflateListenerImplementor.java
 /Users/hilal.sener/RiderProjects/OverlayApp/OverlayApp/obj/Debug/android/src/mono/MonoPackageManager_Resources.java
+/Users/hilal.sener/RiderProjects/OverlayApp/OverlayApp/obj/Debug/android/src/overlay_app/main_activity.java
+/Users/hilal.sener/RiderProjects/OverlayApp/OverlayApp/obj/Debug/android/src/overlay_app/package_activity.java
 /Users/hilal.sener/RiderProjects/OverlayApp/OverlayApp/obj/Debug/android/bin/packaged_resources
 /Users/hilal.sener/RiderProjects/OverlayApp/OverlayApp/obj/Debug/android/src/overlayapp/overlayapp/R.java
 /Users/hilal.sener/RiderProjects/OverlayApp/OverlayApp/obj/Debug/android/compressed_assemblies.arm64-v8a.s
